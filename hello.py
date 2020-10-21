@@ -1,0 +1,11 @@
+msg = "Hello, World!"
+print(msg)
+print(msg.lower())
+print(msg.capitalize())
+print(msg.title())
+print(msg.upper())
+print(len(msg))
+print(msg.count("!"))
+print(msg[5])
+print(msg[2:9])
+print(msg[:9])

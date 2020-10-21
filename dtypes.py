@@ -1,0 +1,6 @@
+print(type("Hello"))
+print(type(1))
+print(type(2.54))
+print(type(True))
+c1 = int(float("3.4"))
+print(c1)
